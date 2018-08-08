@@ -180,6 +180,9 @@
 -define:ENABLE_VSTU
 -define:UNITY_HAS_GOOGLEVR
 -define:UNITY_HAS_TANGO
+'Assets/Scripts/BallControl.cs'
+'Assets/Scripts/GameManager.cs'
 'Assets/Scripts/NewBehaviourScript.cs'
 'Assets/Scripts/PlayerControls.cs'
+'Assets/SideWalls.cs'
 -lib:'/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity'
